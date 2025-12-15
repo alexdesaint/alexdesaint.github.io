@@ -26,8 +26,7 @@ experience:
 - name: Software Developer Apprentice
   location: "**Safran Electrical & Power**, Interconnection Systems Eurasia, Design Office, Blagnac, France"
   left:
-  - Aug 2020
-  - Sep 2019
+  - 2020
 education:
 # Master's Degree en gras
 - name: Robotic and Interactive Systems Engineering Master's Degree
