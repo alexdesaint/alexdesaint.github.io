@@ -18,7 +18,7 @@ experience:
   - "Built and led the Pricing Team (4+ developers), responsible for the design, delivery, and long-term ownership of the company’s pricing applications."
   - "Acted as manager until 2025, I am now technical lead, and main point of contact for trading and quantitative stakeholders."
   - "**Pricing Platform Modernization (2022–Present):**"
-  - "Design and maintain a real-time pricing framework based on Vola Dynamics, used for single-stock and index options across European and US markets. Successful decommissioning of the legacy pricing model."
+  - "Designing and maintaining a real-time pricing framework based on Vola Dynamics, used for single-stock and index options across European and US markets. Successful decommissioning of the legacy pricing model."
   - "Introduced Rust into the pricing ecosystem, defining best practices and using it for performance-critical and safety-sensitive components."
   left:
   - Now
