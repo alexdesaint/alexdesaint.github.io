@@ -42,10 +42,10 @@ education:
 skills:
 - tag: Low-Latency & Systems Engineering
   text:
-  - Design and development of **low-latency, high-reliability** systems for trading and pricing.
-  - Strong focus on abstraction, separation of concerns, profiling, and performance analysis.
-  - Daily use of **Linux**, **C++17**, **Rust**, **CMake**, and **Python**.
-  - Experience with **NoSQL databases**: Redis, ScyllaDB, InfluxDB.
+  - "Design and development of **low-latency, high-reliability** systems for trading and pricing."
+  - "Strong focus on abstraction, separation of concerns, profiling, and performance analysis."
+  - "Daily use of **Linux**, **C++17**, **Rust**, **CMake**, and **Python**."
+  - "Experience with **NoSQL databases**: Redis, ScyllaDB, InfluxDB."
 - tag: Project & Team Management
   text:
   - Full ownership of building, structuring, and scaling a small engineering team, from initial hiring and onboarding to day-to-day execution.
