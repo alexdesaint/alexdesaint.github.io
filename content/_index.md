@@ -2,30 +2,39 @@
 title: "Curriculum Vitae"
 type: "resume"
 name: Alexandre de Saint Blanquat
-accroche: Pricing Team Lead for a high-frequency Market Maker in Amsterdam.
+accroche: Senior Developer for a high-frequency Market Maker in Amsterdam.
 intro: >-
-  Lead Developer in a trading company with 4 years of experience, I have expertise in designing and implementing **C++** applications used for low latency trading.
-  Proficient with **C++ 17**, **Rust**, **Python**, **Linux**, **Vola Dynamics**, **CMAKE**, **Boost**, **Redis**, **ScyllaDB** and **Tbricks**.
-  In charge of guiding the pricing project developments and managing a team of 4 developers with excellent communication with stakeholders.
+  Lead developer in a derivatives trading company with 4+ years of experience designing and delivering **low-latency pricing and trading systems**. Strong expertise in **C++17**, **Rust**, and market data–driven architectures. Proven track record leading teams, modernizing legacy pricing models, and delivering scalable real-time and historical pricing platforms. Comfortable operating at the intersection of technology, quantitative models, and trading stakeholders.
 experience:
-- name: Pricing Team Lead
+- name: Pricing Team Lead / Senior Developer
   place:
   location: "**All Options International**, Amsterdam, The Netherlands"
   text:
-  - All Options is a derivatives trading company specialised in trading options. I am part of the technology department dedicated to develop new technologies and ensure the continuity of the trading platform.
-  - "Main projects:"
-  - "- Created a real-time pricing application based on **Vola Dynamics** used to trade single-stock options and index options. Since June 2023, I am leading a team of four developers aiming to expand to all products in the Europe and the US with a real-time and historical pricing framework."
-  # ajouter stats
-  - "- Worked on processing market data for fitting the volatility to the market using the **Vola Dynamics** library. Used on EURO STOXX 50 and other liquid European indices."
-  - "- Made a portfolio management application that automatically moves delta-neutral and vega-neutral positions. Used to create the company's spread or dispersion strategies."
-  - "- Rewrote a C++ trading strategy that places options orders in pre-open phase on Euronex. The application is required to manage order-book, send orders and cancel orders with a single thread asynchronously."
+  - All Options is a derivatives trading company specialized in options market making. I work within the core technology department responsible for pricing, market data, and trading infrastructure.
+  - "Leadership & Strategy (2023–2025):"
+  - "* Built and led the **Pricing Team** (4 developers), responsible for the design, delivery, and long-term ownership of the company’s pricing applications."
+  - "* Acted as technical lead and main point of contact for trading and quantitative stakeholders, ensuring alignment between pricing models and production constraints."
+  - "* Promoted to **Senior Developer (2025)** with responsibility for technical guidance, code quality, and delivery reliability across the pricing stack."
+  - "Pricing Platform Modernization:"
+  - "* Designed and implemented a **real-time pricing framework based on Vola Dynamics**, used for single-stock and index options across European and US markets.
+  - "* Led the **successful decommissioning of the legacy pricing model**, replacing it with a unified Vola Dynamics–based architecture, delivered on schedule and now fully used in production.
+  - "* Ensured high availability, low latency, and correctness of pricing under strict trading constraints.
+  - "Market Data & Historical Systems (2025–Present):"
+  - "* Currently leading the introduction of a **historical pricing and market data platform** to support research, calibration, and trading analysis."
+  - "* Designed a **horizontally scalable, sharded architecture** using **ScyllaDB** to handle large volumes of historical market data."
+  - "* Established data models and access patterns optimized for both real-time pricing and offline analytics."
+  - "Technical Contributions:"
+  - "* Introduced **Rust** into the pricing ecosystem, defining best practices and using it for performance-critical and safety-sensitive components."
+  - "* Accelerated team delivery and code robustness by raising engineering standards and modernizing tooling and architecture."
+  - "* Developed and maintained systems for:"
+  - "  * Volatility surface fitting using **Vola Dynamics** (EURO STOXX 50 and other liquid indices)"
+  - "  * Portfolio management for **delta-neutral and vega-neutral** strategies (spread and dispersion trading)"
+  - "  * A low-latency **C++ options trading strategy** for Euronext pre-open, handling order books and asynchronous order management in a single-threaded design"
   left:
   - Now
   - Mar 2021
 - name: Software Developer Apprentice
   location: "**Safran Electrical & Power**, Interconnection Systems Eurasia, Design Office, Blagnac, France"
-  text:
-  - In charge of testing the new *Hololens 2* on how augmented reality glasses can be used in the plane cabling process.
   left:
   - Aug 2020
   - Sep 2019
