@@ -2,9 +2,9 @@
 title: "Curriculum Vitae"
 type: "resume"
 name: Alexandre de Saint Blanquat
-accroche: Senior Developer / Pricing Team Lead at a High-Frequency Market Maker (Amsterdam)
+accroche: Senior Developer at a High-Frequency Market Maker (Amsterdam)
 intro: >-
-  Senior developer and team lead in a derivatives trading company with 4+ years of experience designing and delivering **low-latency pricing and trading systems**. Strong expertise in **C++17**, **Rust**, and market data–driven architectures. Proven track record leading teams, modernizing legacy pricing models, and delivering scalable real-time and historical pricing platforms. Operating at the intersection of technology, quantitative models, and trading stakeholders.
+  Senior developer and team lead in a derivatives trading company with 5+ years of experience designing and delivering **low-latency pricing and trading systems**. Strong expertise in **C++17**, **Rust**, and market data–driven architectures. Proven track record leading teams, modernizing legacy pricing models, and delivering scalable real-time and historical pricing platforms. Operating at the intersection of technology, quantitative models, and trading stakeholders.
 experience:
 - name: Pricing Team Lead / Senior Developer
   place:
@@ -14,10 +14,9 @@ experience:
   - "**Market Data & Historical Systems (2025–Present):**"
   - "Currently leading the introduction of a historical pricing and market data platform to support research, calibration, and trading analysis."
   - "Designed a horizontally scalable, sharded architecture using ScyllaDB to handle large volumes of historical market data."
-  - "Established data models and access patterns optimized for both real-time pricing and offline analytics."
   - "**Leadership & Strategy (2023–Present):**"
   - "Built and led the Pricing Team (4+ developers), responsible for the design, delivery, and long-term ownership of the company’s pricing applications."
-  - "Acted as manager, technical lead, and main point of contact for trading and quantitative stakeholders, ensuring alignment between pricing models and production constraints."
+  - "Acted as manager until 2025, I am now technical lead, and main point of contact for trading and quantitative stakeholders."
   - "**Pricing Platform Modernization (2022–Present):**"
   - "Design and maintain a real-time pricing framework based on Vola Dynamics, used for single-stock and index options across European and US markets. Successful decommissioning of the legacy pricing model."
   - "Introduced Rust into the pricing ecosystem, defining best practices and using it for performance-critical and safety-sensitive components."
@@ -40,7 +39,7 @@ education:
   left:
   - 2017
 skills:
-- tag: Low-Latency & Systems Engineering
+- tag: Systems Engineering
   text:
   - "Design and development of **low-latency, high-reliability** systems for trading and pricing."
   - "Strong focus on abstraction, separation of concerns, profiling, and performance analysis."
