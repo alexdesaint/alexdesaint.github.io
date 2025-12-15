@@ -1,4 +1,5 @@
 {{ partial "header.html" . }}
+{{ partial "cv.html" .Params }}
 <!--
 <div class="submenu">
 	{{ $currentPage := . }}
@@ -6,9 +7,8 @@
 	<a href="{{ .URL }}" class="{{ if $currentPage.HasMenuCurrent "cv" . }}active{{ end }}">{{ .Name }}</a>
 	{{ end }}
 </div>
--->
-{{ partial "cv.html" .Params }}
 {{ if .Content }}<div class="page">
 	{{ .Content }}
 </div>{{ end }}
 {{ partial "footer.html" . }}
+-->
