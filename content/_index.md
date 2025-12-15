@@ -48,10 +48,10 @@ skills:
   - "Experience with **NoSQL databases**: Redis, ScyllaDB, InfluxDB."
 - tag: Project & Team Management
   text:
-  - Full ownership of building, structuring, and scaling a small engineering team, from initial hiring and onboarding to day-to-day execution.
-  - End-to-end project management: requirements gathering, architecture design, delivery planning, production rollout, support, and handover.
-  - Strong experience in technical leadership, including system design decisions, code reviews, mentoring, and continuous skill development.
-  - Ability to define team processes, prioritize work, and ensure reliable delivery under tight trading and business constraints.
+  - "Full ownership of building, structuring, and scaling a small engineering team, from initial hiring and onboarding to day-to-day execution."
+  - "End-to-end project management: requirements gathering, architecture design, delivery planning, production rollout, support, and handover."
+  - "Strong experience in technical leadership, including system design decisions, code reviews, mentoring, and continuous skill development."
+  - "Ability to define team processes, prioritize work, and ensure reliable delivery under tight trading and business constraints."
 - tag: About me
   text:
   - I have a truly international profile, grew up in south-east Asia, studied in France and now living in The Netherlands.
