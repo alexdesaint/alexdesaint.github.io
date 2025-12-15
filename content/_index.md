@@ -2,27 +2,25 @@
 title: "Curriculum Vitae"
 type: "resume"
 name: Alexandre de Saint Blanquat
-accroche: Senior Developer for a high-frequency Market Maker in Amsterdam.
+accroche: Senior Developer / Pricing Team Lead at a High-Frequency Market Maker (Amsterdam)
 intro: >-
-  Lead developer in a derivatives trading company with 4+ years of experience designing and delivering **low-latency pricing and trading systems**. Strong expertise in **C++17**, **Rust**, and market data–driven architectures. Proven track record leading teams, modernizing legacy pricing models, and delivering scalable real-time and historical pricing platforms. Comfortable operating at the intersection of technology, quantitative models, and trading stakeholders.
+  Senior developer and team lead in a derivatives trading company with 4+ years of experience designing and delivering **low-latency pricing and trading systems**. Strong expertise in **C++17**, **Rust**, and market data–driven architectures. Proven track record leading teams, modernizing legacy pricing models, and delivering scalable real-time and historical pricing platforms. Operating at the intersection of technology, quantitative models, and trading stakeholders.
 experience:
 - name: Pricing Team Lead / Senior Developer
   place:
   location: "**All Options International**, Amsterdam, The Netherlands"
   text:
   - All Options is a derivatives trading company specialized in options market making. I work within the core technology department responsible for pricing, market data, and trading infrastructure.
-  - "**Pricing Platform Modernization (2025–Present):**"
-  - "Designed and implemented a real-time pricing framework based on Vola Dynamics, used for single-stock and index options across European and US markets."
-  - "Led the successful decommissioning of the legacy pricing model."
-  - "Introduced Rust into the pricing ecosystem, defining best practices and using it for performance-critical and safety-sensitive components."
   - "**Market Data & Historical Systems (2025–Present):**"
   - "Currently leading the introduction of a historical pricing and market data platform to support research, calibration, and trading analysis."
   - "Designed a horizontally scalable, sharded architecture using ScyllaDB to handle large volumes of historical market data."
   - "Established data models and access patterns optimized for both real-time pricing and offline analytics."
-  - "**Leadership & Strategy (2023–2024):**"
-  - "Built and led the **Pricing Team** (4 developers), responsible for the design, delivery, and long-term ownership of the company’s pricing applications."
-  - "Acted as technical lead and main point of contact for trading and quantitative stakeholders, ensuring alignment between pricing models and production constraints."
-  - "Promoted to Senior Developer (2025) with responsibility for technical guidance, code quality, and delivery reliability across the pricing stack."
+  - "**Leadership & Strategy (2023–Present):**"
+  - "Built and led the Pricing Team (4+ developers), responsible for the design, delivery, and long-term ownership of the company’s pricing applications."
+  - "Acted as manager, technical lead, and main point of contact for trading and quantitative stakeholders, ensuring alignment between pricing models and production constraints."
+  - "**Pricing Platform Modernization (2022–Present):**"
+  - "Design and maintain a real-time pricing framework based on Vola Dynamics, used for single-stock and index options across European and US markets. Successful decommissioning of the legacy pricing model."
+  - "Introduced Rust into the pricing ecosystem, defining best practices and using it for performance-critical and safety-sensitive components."
   left:
   - Now
   - Mar 2021
@@ -42,19 +40,22 @@ education:
   left:
   - 2017
 skills:
-- tag: Low latency
+- tag: Low-Latency & Systems Engineering
   text:
-  - Experienced in developing applications with low latency and high reliability requirements. I have a methodic approach and always provide an abstracted design, enforce concepts separation and code profiling.
-  - Using **Linux** as my working environment and proficient with **C++ 17**, **CMAKE**, **Boost**, the **LLVM** ecosystem, **Python** and **Rust**. Closely working with **NoSQL** databases such as **Redis**, **ScyllaDB** and **InfluxDB**.
-  - I had training with **VHDL** and learned **OpenGL**. Would be interested in GPU-accelerated computing or **FPGA**.
-- tag: Project Management
+  - Design and development of **low-latency, high-reliability** systems for trading and pricing.
+  - Strong focus on abstraction, separation of concerns, profiling, and performance analysis.
+  - Daily use of **Linux**, **C++17**, **Rust**, **CMake**, and **Python**.
+  - Experience with **NoSQL databases**: Redis, ScyllaDB, InfluxDB.
+- tag: Project & Team Management
   text:
-  - I manage projects through all different stages, from requirement to release, support and handover. I supervise the work of my team, guide the design, review and give constructive feedbacks.
-  - I see myself as a team player and a problem solver who can offer tailor-made project management that suits the team and the company needs.
+  - Full ownership of building, structuring, and scaling a small engineering team, from initial hiring and onboarding to day-to-day execution.
+  - End-to-end project management: requirements gathering, architecture design, delivery planning, production rollout, support, and handover.
+  - Strong experience in technical leadership, including system design decisions, code reviews, mentoring, and continuous skill development.
+  - Ability to define team processes, prioritize work, and ensure reliable delivery under tight trading and business constraints.
 - tag: About me
   text:
   - I have a truly international profile, grew up in south-east Asia, studied in France and now living in The Netherlands.
-  - I like photography, skiing and socializing after work. 
+  - I like photography, snowboarding, kitesurfing and socializing after work. 
   - Native French, fluent in English.
   - "Mail: alexandredlsb@gmail.com"
   - "Phone: +33 7 83 89 52 43"
