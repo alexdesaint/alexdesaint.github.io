@@ -16,9 +16,9 @@ experience:
   - "* Acted as technical lead and main point of contact for trading and quantitative stakeholders, ensuring alignment between pricing models and production constraints."
   - "* Promoted to **Senior Developer (2025)** with responsibility for technical guidance, code quality, and delivery reliability across the pricing stack."
   - "Pricing Platform Modernization:"
-  - "* Designed and implemented a **real-time pricing framework based on Vola Dynamics**, used for single-stock and index options across European and US markets.
-  - "* Led the **successful decommissioning of the legacy pricing model**, replacing it with a unified Vola Dynamics–based architecture, delivered on schedule and now fully used in production.
-  - "* Ensured high availability, low latency, and correctness of pricing under strict trading constraints.
+  - "* Designed and implemented a **real-time pricing framework based on Vola Dynamics**, used for single-stock and index options across European and US markets."
+  - "* Led the **successful decommissioning of the legacy pricing model**, replacing it with a unified Vola Dynamics–based architecture, delivered on schedule and now fully used in production."
+  - "* Ensured high availability, low latency, and correctness of pricing under strict trading constraints."
   - "Market Data & Historical Systems (2025–Present):"
   - "* Currently leading the introduction of a **historical pricing and market data platform** to support research, calibration, and trading analysis."
   - "* Designed a **horizontally scalable, sharded architecture** using **ScyllaDB** to handle large volumes of historical market data."
